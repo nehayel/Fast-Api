@@ -1,11 +1,17 @@
 from fastapi import FastAPI
 import uvicorn
+
 app = FastAPI()
 
-@app.get("/")
 
+@app.get("/")
 async def home():
-    return {"jfklajfkajfajf "}
+    return {"message": "This is my first FastAPI assignment"}
+
+
+@app.get("/greet/{name}")
+async def greet(name: str):
+    return {"message": f"Hello, {name}!"}
 
 
 if __name__ == "__main__":
