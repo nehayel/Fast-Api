@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45118861-4ded-45c7-8de9-9a3d6d46e46f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class_middleware.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global_middleware.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/huglu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyDependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/assignment2/employee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/assignment2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_dependency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment/assignment1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment/assignment1/maina.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/huglu.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

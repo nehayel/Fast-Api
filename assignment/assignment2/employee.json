@@ -1,0 +1,25 @@
+
+{
+    "id": 1,
+    "full_name": "Walid Hossain",
+    "email": "walidhossain179@gmail.com",
+    "age": 26,
+    "salary": 45000,
+    "is_active": true,
+    "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "Web Scraping"
+    ],
+    "address": {
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "postal_code": 1212
+    },
+    "job": {
+        "position": "Backend Developer",
+        "department": "IT",
+        "experience": 2
+    }
+}
